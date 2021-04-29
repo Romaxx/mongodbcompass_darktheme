@@ -38,9 +38,9 @@ DarkReader.enable({
     sepia: 10
 });
 ```
-(enter, adjust values if necessary)
-don't worry about CSP errors
-tada !
-mongodb compass electron app don't integrate it as npm package probably due to CSP requirements
+(enter, adjust values if necessary)  
+don't worry about CSP errors  
+mongodb compass electron app don't integrate it as npm package probably due to CSP requirements  
+voila ^^  
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UKRSA8MGPWYWJ)
